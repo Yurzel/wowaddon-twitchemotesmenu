@@ -1,0 +1,6 @@
+## Interface: 20501
+## Version: 1.0.0
+## Author: Yurzel
+## Dependencies: TwitchEmotes
+
+TwitchEmotesMenu.lua
